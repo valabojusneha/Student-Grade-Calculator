@@ -1,0 +1,5 @@
+6G1|sowmya|se-os-dbms|89-99-98|95.33333333333333|A+
+6G0|Pallavi|se-os-dbms|99-89-98|95.33333333333333|A+
+6G2|ravi|se-os-dbms|78-78-99|85.0|A
+6G3|Bhargavi|se-os-dbms|89-78-78|81.66666666666667|A
+1|sneha|se-os-dbms|99-99-87|95.0|A+
